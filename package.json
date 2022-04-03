@@ -1,0 +1,11 @@
+{
+  "name": "@TakuyaTaniguchi/my-packages",
+  "version": "1.0.2",
+  "main": "index.js",
+  "repository": "https://github.com/TakuyaTaniguchi/my-packages.git",
+  "author": "Takuya Taniguchi <ttaniguchi@binc.jp>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
